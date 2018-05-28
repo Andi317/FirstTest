@@ -1,0 +1,6 @@
+Base path: C:/Program Files/2018.1.1f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=2863 outsize=47781 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
