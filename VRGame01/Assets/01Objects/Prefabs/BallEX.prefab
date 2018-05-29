@@ -27,7 +27,7 @@ GameObject:
   - component: {fileID: 114827123614279948}
   - component: {fileID: 114162403098562038}
   m_Layer: 0
-  m_Name: Ball (46)
+  m_Name: BallEX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -61,7 +61,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: bf4f8298724caa74fa224f2478e6cd11, type: 2}
+  - {fileID: 2100000, guid: 3a163ce38390df5458b991f6344b83ac, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

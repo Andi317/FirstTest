@@ -51,6 +51,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\02Scripts\NVR_Erweiterung\ReadME.cs" />
+     <Compile Include="Assets\02Scripts\UnityTemplateProjects\SimpleCameraController.cs" />
+     <Compile Include="Assets\02Scripts\VRGame\Beschleuniger.cs" />
+     <Compile Include="Assets\02Scripts\VRGame\ChangePhyM.cs" />
+     <Compile Include="Assets\02Scripts\VRGame\Explo.cs" />
+     <Compile Include="Assets\02Scripts\VRGame\Schuss.cs" />
+     <Compile Include="Assets\02Scripts\VRGame\Verbindung.cs" />
+     <Compile Include="Assets\02Scripts\VRTK_Erweiterung\BasicTeleport.cs" />
+     <Compile Include="Assets\02Scripts\VRTK_Erweiterung\DoNotTeleportObject.cs" />
+     <Compile Include="Assets\02Scripts\VRTK_Erweiterung\HeightAdjustTeleport.cs" />
      <Compile Include="Assets\NewtonVR\CollisionSoundFramework\NVRCollisionSoundController.cs" />
      <Compile Include="Assets\NewtonVR\CollisionSoundFramework\NVRCollisionSoundMaterials.cs" />
      <Compile Include="Assets\NewtonVR\CollisionSoundFramework\NVRCollisionSoundObject.cs" />
@@ -302,16 +312,6 @@
      <Compile Include="Assets\OculusPlatform\Scripts\VoipPCMSourceNative.cs" />
      <Compile Include="Assets\OculusPlatform\Scripts\VoipSampleRate.cs" />
      <Compile Include="Assets\OculusPlatform\Scripts\WindowsPlatform.cs" />
-     <Compile Include="Assets\Scripts\NVR_Erweiterung\ReadME.cs" />
-     <Compile Include="Assets\Scripts\UnityTemplateProjects\SimpleCameraController.cs" />
-     <Compile Include="Assets\Scripts\VRGame\Beschleuniger.cs" />
-     <Compile Include="Assets\Scripts\VRGame\ChangePhyM.cs" />
-     <Compile Include="Assets\Scripts\VRGame\Explo.cs" />
-     <Compile Include="Assets\Scripts\VRGame\Schuss.cs" />
-     <Compile Include="Assets\Scripts\VRGame\Verbindung.cs" />
-     <Compile Include="Assets\Scripts\VRTK_Erweiterung\BasicTeleport.cs" />
-     <Compile Include="Assets\Scripts\VRTK_Erweiterung\DoNotTeleportObject.cs" />
-     <Compile Include="Assets\Scripts\VRTK_Erweiterung\HeightAdjustTeleport.cs" />
      <Compile Include="Assets\VRTK\Examples\ExampleResources\SceneResources\[001 - Interactions] ControllerEvents\Scripts\VRTKExample_ControllerEventsDelegateListeners.cs" />
      <Compile Include="Assets\VRTK\Examples\ExampleResources\SceneResources\[002 - Pointers] StraightPointer\Scripts\VRTKExample_PointerObjectHighlighterActivator.cs" />
      <Compile Include="Assets\VRTK\Examples\ExampleResources\SceneResources\[003 - Pointers] BezierPointer\Scripts\VRTKExample_BezierPointerChanger.cs" />
@@ -689,22 +689,22 @@
      <None Include="Assets\NewtonVR\Example\Shaders\3DText.shader" />
      <None Include="Assets\Oculus\VR\Plugins\placeholder.txt" />
  <Reference Include="Unity.ProGrids">
- <HintPath>D:/Unity2018/VRGame01/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+ <HintPath>D:/GitHub/FirstTest/VRGame01/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ProGrids.Editor">
- <HintPath>D:/Unity2018/VRGame01/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+ <HintPath>D:/GitHub/FirstTest/VRGame01/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/Unity2018/VRGame01/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/GitHub/FirstTest/VRGame01/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/Unity2018/VRGame01/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/GitHub/FirstTest/VRGame01/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.postprocessing.Editor">
- <HintPath>D:/Unity2018/VRGame01/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
+ <HintPath>D:/GitHub/FirstTest/VRGame01/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.postprocessing.Runtime">
- <HintPath>D:/Unity2018/VRGame01/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
+ <HintPath>D:/GitHub/FirstTest/VRGame01/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/2018.1.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

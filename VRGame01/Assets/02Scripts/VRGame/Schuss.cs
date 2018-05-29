@@ -26,6 +26,7 @@ public class Schuss : MonoBehaviour {
 		r.AddForce (i.AttachedHand.CurrentForward * force, ForceMode.VelocityChange);
 		//i.AttachedHands.Clear ();
 		i.EndInteraction(i.AttachedHand);
-		e.Activate ();
+		if (e != null)
+			e.Activate ();
 	}
 }
