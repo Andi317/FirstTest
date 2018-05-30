@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/03Scenes/Musterlevel.unity
+- path: Assets/VRTK/Examples/[006 - Locomotion] MovementTypes.unity
   isLoaded: 1
   isActive: 1
