@@ -51,16 +51,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\02Scripts\NVR_Erweiterung\ReadME.cs" />
-     <Compile Include="Assets\02Scripts\UnityTemplateProjects\SimpleCameraController.cs" />
-     <Compile Include="Assets\02Scripts\VRGame\Beschleuniger.cs" />
-     <Compile Include="Assets\02Scripts\VRGame\ChangePhyM.cs" />
-     <Compile Include="Assets\02Scripts\VRGame\Explo.cs" />
-     <Compile Include="Assets\02Scripts\VRGame\Schuss.cs" />
-     <Compile Include="Assets\02Scripts\VRGame\Verbindung.cs" />
-     <Compile Include="Assets\02Scripts\VRTK_Erweiterung\BasicTeleport.cs" />
-     <Compile Include="Assets\02Scripts\VRTK_Erweiterung\DoNotTeleportObject.cs" />
-     <Compile Include="Assets\02Scripts\VRTK_Erweiterung\HeightAdjustTeleport.cs" />
+     <Compile Include="Assets\02_Scripts\NVR_Erweiterung\ReadME.cs" />
+     <Compile Include="Assets\02_Scripts\UnityTemplateProjects\SimpleCameraController.cs" />
+     <Compile Include="Assets\02_Scripts\VRGame\Beschleuniger.cs" />
+     <Compile Include="Assets\02_Scripts\VRGame\ChangePhyM.cs" />
+     <Compile Include="Assets\02_Scripts\VRGame\Explo.cs" />
+     <Compile Include="Assets\02_Scripts\VRGame\Schuss.cs" />
+     <Compile Include="Assets\02_Scripts\VRGame\Verbindung.cs" />
+     <Compile Include="Assets\02_Scripts\VRTK_Erweiterung\BasicTeleport.cs" />
+     <Compile Include="Assets\02_Scripts\VRTK_Erweiterung\DoNotTeleportObject.cs" />
+     <Compile Include="Assets\02_Scripts\VRTK_Erweiterung\HeightAdjustTeleport.cs" />
      <Compile Include="Assets\NewtonVR\CollisionSoundFramework\NVRCollisionSoundController.cs" />
      <Compile Include="Assets\NewtonVR\CollisionSoundFramework\NVRCollisionSoundMaterials.cs" />
      <Compile Include="Assets\NewtonVR\CollisionSoundFramework\NVRCollisionSoundObject.cs" />
@@ -676,6 +676,7 @@
      <None Include="Assets\Oculus\Avatar\Resources\Materials\Version1.5\Avatar_Mobile_CombinedMesh.shader" />
      <None Include="Assets\Oculus\VR\Resources\Underlay Transparent Occluder.shader" />
      <None Include="Assets\Oculus\VR\Resources\Texture2D Blit.shader" />
+     <None Include="Assets\06_Test\NewSurfaceShader.shader" />
      <None Include="Assets\VRTK\Source\Scripts\Internal\Shaders\VRTK_TunnelEffect.shader" />
      <None Include="Assets\Oculus\VR\Resources\OVRMRCameraFrame.shader" />
      <None Include="Assets\Oculus\Avatar\Resources\Materials\AvatarSurfaceShaderPBSV2.shader" />
